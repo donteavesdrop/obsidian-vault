@@ -8,56 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e57cfd42c16f2103",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Welcome"
-            }
-          },
-          {
-            "id": "6fcf5cd5cdcd0869",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Postgres.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Postgres"
-            }
-          },
-          {
             "id": "a706db5f446392c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Шаблоны/Базовая заметка.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Базовая заметка"
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "0d0cef804c549ae2",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "122275584e4dc010",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -216,9 +167,13 @@
   },
   "active": "a706db5f446392c1",
   "lastOpenFiles": [
-    "2 - Заметки/Postgres.md",
+    "2 - Заметки/Типы данных postgres.md",
+    "2 - Заметки/Типы данных python.md",
     "6 - Шаблоны/Базовая заметка.md",
-    "2 - Заметки/Без названия.md",
+    "3 - Теги/Python.md",
+    "3 - Теги/Postgres.md",
+    "3 - Теги/Сети.md",
+    "2 - Заметки/Postgres.md",
     "6 - Шаблоны",
     "5 - Исходные материалы",
     "4 - Индексы",

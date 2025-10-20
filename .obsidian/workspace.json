@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "fc5caadd408653ee",
+        "id": "4d1695c8faf7c731",
         "type": "tabs",
         "children": [
           {
-            "id": "a706db5f446392c1",
+            "id": "5e1f71eba313bacb",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "2 - Заметки/Проверка гипертаблиц.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Проверка гипертаблиц"
             }
           }
         ]
@@ -165,18 +169,19 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "a706db5f446392c1",
+  "active": "5e1f71eba313bacb",
   "lastOpenFiles": [
+    "2 - Заметки/Типы данных postgres.md",
     "2 - Заметки/Проверка гипертаблиц.md",
     "4 - Индексы/Postgres/TimescaleDB.md",
+    "3 - Теги/Postgres.md",
+    "1 - Черновики/roadmap.md",
     "4 - Индексы/Postgres",
     "2 - Заметки/Git синхронизация obsidian.md",
     "2 - Заметки/Типы данных python.md",
-    "2 - Заметки/Типы данных postgres.md",
     "3 - Теги/Git.md",
     "6 - Шаблоны/Базовая заметка.md",
     "3 - Теги/Python.md",
-    "3 - Теги/Postgres.md",
     "3 - Теги/Сети.md",
     "2 - Заметки/Postgres.md",
     "6 - Шаблоны",

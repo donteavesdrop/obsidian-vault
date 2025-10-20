@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Postgres.md",
+                "file": "6 - Шаблоны/Базовая заметка.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Postgres"
+              "title": "Базовая заметка"
             }
           }
         ],
@@ -63,7 +63,7 @@
               "type": "graph",
               "state": {},
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Граф"
             }
           }
         ]
@@ -89,7 +89,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Файловый менеджер"
             }
           },
           {
@@ -106,7 +106,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Поиск"
             }
           },
           {
@@ -205,18 +205,26 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false
     }
   },
   "active": "a706db5f446392c1",
   "lastOpenFiles": [
+    "2 - Заметки/Postgres.md",
+    "6 - Шаблоны/Базовая заметка.md",
+    "2 - Заметки/Без названия.md",
+    "6 - Шаблоны",
+    "5 - Исходные материалы",
+    "4 - Индексы",
+    "3 - Теги",
     "Welcome.md",
-    "Postgres.md"
+    "2 - Заметки",
+    "1 - Черновики"
   ]
 }

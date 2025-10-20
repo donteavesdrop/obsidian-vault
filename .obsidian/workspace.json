@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4d1695c8faf7c731",
+        "id": "e65cad6092daacfa",
         "type": "tabs",
         "children": [
           {
-            "id": "5e1f71eba313bacb",
+            "id": "00fbb791aa2abc40",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -169,10 +169,12 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "5e1f71eba313bacb",
+  "active": "00fbb791aa2abc40",
   "lastOpenFiles": [
-    "2 - Заметки/Типы данных postgres.md",
+    "2 - Заметки/TimescaleDB Общая теория.md",
+    "TimescaleDB-Commands.md",
     "2 - Заметки/Проверка гипертаблиц.md",
+    "2 - Заметки/Типы данных postgres.md",
     "4 - Индексы/Postgres/TimescaleDB.md",
     "3 - Теги/Postgres.md",
     "1 - Черновики/roadmap.md",

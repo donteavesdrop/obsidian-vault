@@ -1,6 +1,6 @@
 {
-  "collapse-filter": true,
-  "search": "",
+  "collapse-filter": false,
+  "search": "сети",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -15,7 +15,7 @@
       }
     },
     {
-      "query": "path:\"4 - Индексы/Программирование\"  ",
+      "query": "path:\"4 - Индексы/IT\"  ",
       "color": {
         "a": 1,
         "rgb": 14048460
@@ -31,14 +31,14 @@
   ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": -0.7,
-  "nodeSizeMultiplier": 0.840104166666667,
-  "lineSizeMultiplier": 1.06979166666667,
+  "textFadeMultiplier": -1.8,
+  "nodeSizeMultiplier": 1.45260416666667,
+  "lineSizeMultiplier": 1.37604166666667,
   "collapse-forces": false,
   "centerStrength": 0.369791666666667,
-  "repelStrength": 10.2083333333333,
+  "repelStrength": 15.8333333333333,
   "linkStrength": 0.932291666666667,
   "linkDistance": 285,
-  "scale": 0.5087618855792542,
-  "close": true
+  "scale": 0.5359795996225897,
+  "close": false
 }

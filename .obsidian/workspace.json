@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Заметки/Cети/Канальный (L2, Data Link Layer).md",
+                "file": "2 - Заметки/Cети/Сетевой (L3, Network Layer).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Канальный (L2, Data Link Layer)"
+              "title": "Сетевой (L3, Network Layer)"
             }
           },
           {
@@ -184,6 +184,7 @@
   },
   "active": "00fbb791aa2abc40",
   "lastOpenFiles": [
+    "2 - Заметки/Cети/Канальный (L2, Data Link Layer).md",
     "2 - Заметки/Git синхронизация obsidian.md",
     "2 - Заметки/Проверка гипертаблиц.md",
     "2 - Заметки/TimescaleDB Общая теория.md",
@@ -193,7 +194,6 @@
     "2 - Заметки/Разработка/Python",
     "2 - Заметки/Разработка",
     "2 - Заметки/Cron и временные интервалы.md",
-    "2 - Заметки/Cети/Канальный (L2, Data Link Layer).md",
     "2 - Заметки/Cети/Транспортный (L4, Transport Layer).md",
     "2 - Заметки/Cети/Физический (L1, Physical Layer).md",
     "3 - Теги/Сети.md",

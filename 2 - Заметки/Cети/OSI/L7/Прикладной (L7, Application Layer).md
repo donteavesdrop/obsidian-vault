@@ -25,7 +25,7 @@
 
 **Основные протоколы**
 
-- **[[HTTP/HTTPS]]** (HyperText Transfer Protocol / Secure) — передача веб-страниц и веб-сервисов.
+- **[[HTTP HTTPS]]** (HyperText Transfer Protocol / Secure) — передача веб-страниц и веб-сервисов.
     
 - **[[FTP]]** (File Transfer Protocol) — передача файлов.
     
@@ -47,7 +47,7 @@
     
 - **[[NFS]]** (Network File System) — доступ к удалённой файловой системе.
     
-- **[[SMB/CIFS]]** (Server Message Block / Common Internet File System) — сетевые файловые и принтерные службы Windows.
+- **[[SMB CIFS]]** (Server Message Block / Common Internet File System) — сетевые файловые и принтерные службы Windows.
     
 - **[[RDP]]** (Remote Desktop Protocol) — удалённый рабочий стол.
     

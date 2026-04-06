@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Заметки/Cети/OSI/L3/IPv4.md",
+                "file": "2 - Заметки/Cети/OSI/L7/SMB CIFS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IPv4"
+              "title": "SMB CIFS"
             }
           }
         ],
@@ -170,6 +170,14 @@
   },
   "active": "00fbb791aa2abc40",
   "lastOpenFiles": [
+    "2 - Заметки/Cети/OSI/L7/Прикладной (L7, Application Layer).md",
+    "2 - Заметки/Cети/OSI/L7/SMB CIFS.md",
+    "2 - Заметки/Cети/OSI/L7/HTTP HTTPS.md",
+    "2 - Заметки/Cети/OSI/L7/BGP.md",
+    "HTTP/HTTPS.md",
+    "SMB/CIFS.md",
+    "2 - Заметки/Cети/OSI/L6/Представление данных (L6, Presentation Layer).md",
+    "2 - Заметки/Cети/OSI/L3/IPv4.md",
     "2 - Заметки/Cети/OSI/L3/IPsec.md",
     "2 - Заметки/Cети/OSI/L3/IGMP.md",
     "2 - Заметки/Cети/OSI/L3/ICMP.md",
@@ -184,18 +192,10 @@
     "2 - Заметки/Cети/OSI/L1/USB.md",
     "2 - Заметки/Cети/OSI/L1/Fiber Channel.md",
     "2 - Заметки/Cети/OSI/L1/Ethernet.md",
-    "2 - Заметки/Cети/OSI/L7/Прикладной (L7, Application Layer).md",
     "WebSocket.md",
     "2 - Заметки/Cети/OSI/L7/WebSocket.md",
     "2 - Заметки/Cети/OSI/L7/Telnet.md",
     "2 - Заметки/Cети/OSI/L7/SNMP.md",
-    "2 - Заметки/Cети/OSI/L7/SMTP.md",
-    "2 - Заметки/Cети/OSI/L7/RDP.md",
-    "2 - Заметки/Cети/OSI/L7/POP3.md",
-    "2 - Заметки/Cети/OSI/L7/NFS.md",
-    "2 - Заметки/Cети/OSI/L7/LDAP.md",
-    "2 - Заметки/Cети/OSI/L7/IMAP.md",
-    "LDAP.md",
     "SMB",
     "HTTP",
     "SSL",

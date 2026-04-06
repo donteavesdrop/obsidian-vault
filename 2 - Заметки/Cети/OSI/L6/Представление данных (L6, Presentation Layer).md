@@ -25,7 +25,7 @@
 
 **Основные протоколы и стандарты представления**
 
-- **[[SSL/TLS]]** (Secure Sockets Layer / Transport Layer Security) — шифрование и согласование криптографических параметров (частично работает на L5/L6).
+- **[[SSL TLS]]** (Secure Sockets Layer / Transport Layer Security) — шифрование и согласование криптографических параметров (частично работает на L5/L6).
     
 - **[[XDR]]** (External Data Representation) — стандарт для описания и кодирования данных (используется в NFS, RPC).
     

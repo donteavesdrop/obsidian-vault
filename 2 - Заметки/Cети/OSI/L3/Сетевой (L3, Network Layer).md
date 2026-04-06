@@ -35,10 +35,6 @@
     
 - **[[OSPF]]** (Open Shortest Path First)
     
-- **[[BGP]]** (Border Gateway Protocol)
-    
-- **[[RIP]]** (Routing Information Protocol)
-    
 - **[[IGMP]]** (Internet Group Management Protocol)
     
 - **[[IPsec]]** (в части управления ключами и маршрутизации защищённых потоков)

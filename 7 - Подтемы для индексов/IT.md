@@ -1,1 +1,1 @@
-[[Python]][[Git]][[Postgres]][[Сети]]
+[[Python]][[Git]][[Postgres]][[Сети]][[Операционные системы]]

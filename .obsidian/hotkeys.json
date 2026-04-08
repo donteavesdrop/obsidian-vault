@@ -7,5 +7,29 @@
       "key": "B"
     }
   ],
-  "editor:toggle-bold": []
+  "editor:toggle-bold": [],
+  "extended-graph:flicker-open-nodes": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "W"
+    }
+  ],
+  "workspace:close": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "ArrowLeft"
+    }
+  ],
+  "editor:insert-tag": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "A"
+    }
+  ]
 }

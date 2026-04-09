@@ -79,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 505.5
+    "width": 200
   },
   "right": {
     "id": "2d370a9667dbf2de",
@@ -102,8 +102,10 @@
   },
   "active": "00fbb791aa2abc40",
   "lastOpenFiles": [
-    "2 - Заметки/IT/Разработка/Git/Git синхронизация obsidian.md",
+    "5 - Исходные материалы/Pasted image 20260409170742.png",
+    "2 - Заметки/IT/Cети/OSI/L3/Сетевой (L3, Network Layer).md",
     "README.md",
+    "2 - Заметки/IT/Разработка/Git/Git синхронизация obsidian.md",
     "2 - Заметки/IT/Безопасность/Уязвимости/Веб-уязвимости/Веб-уязвимости.md",
     "2 - Заметки/IT/Безопасность/Уязвимости/Веб-уязвимости/Методы защиты от HTML Injection.md",
     "2 - Заметки/IT/Безопасность/Уязвимости/Веб-уязвимости/Host Header Injection.md",
@@ -126,8 +128,6 @@
     "2 - Заметки/IT/Безопасность/Уязвимости/Веб-уязвимости/Session Fixation.md",
     "2 - Заметки/IT/Безопасность/Уязвимости/Веб-уязвимости/SAML Replay Attack.md",
     "2 - Заметки/IT/Безопасность/Уязвимости/Веб-уязвимости/Ruby YAML Deserialization.md",
-    "2 - Заметки/IT/Безопасность/Уязвимости/Веб-уязвимости/Python Pickle Injection.md",
-    "2 - Заметки/IT/Безопасность/Уязвимости/Веб-уязвимости/PHP Object Injection.md",
     "Без названия.canvas",
     "1 - Черновики/CreateVulns.ps1",
     "CreateVulns.ps1",

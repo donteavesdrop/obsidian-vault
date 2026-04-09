@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Заметки/IT/Разработка/Git/Git синхронизация obsidian.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Git синхронизация obsidian"
+              "title": "README"
             }
           }
         ],
@@ -102,6 +102,8 @@
   },
   "active": "00fbb791aa2abc40",
   "lastOpenFiles": [
+    "2 - Заметки/IT/Разработка/Git/Git синхронизация obsidian.md",
+    "README.md",
     "2 - Заметки/IT/Безопасность/Уязвимости/Веб-уязвимости/Веб-уязвимости.md",
     "2 - Заметки/IT/Безопасность/Уязвимости/Веб-уязвимости/Методы защиты от HTML Injection.md",
     "2 - Заметки/IT/Безопасность/Уязвимости/Веб-уязвимости/Host Header Injection.md",
@@ -126,8 +128,6 @@
     "2 - Заметки/IT/Безопасность/Уязвимости/Веб-уязвимости/Ruby YAML Deserialization.md",
     "2 - Заметки/IT/Безопасность/Уязвимости/Веб-уязвимости/Python Pickle Injection.md",
     "2 - Заметки/IT/Безопасность/Уязвимости/Веб-уязвимости/PHP Object Injection.md",
-    "2 - Заметки/IT/Безопасность/Уязвимости/Веб-уязвимости/OAuth Redirect URI Manipulation.md",
-    "2 - Заметки/IT/Безопасность/Уязвимости/Веб-уязвимости/OAuth CSRF.md",
     "Без названия.canvas",
     "1 - Черновики/CreateVulns.ps1",
     "CreateVulns.ps1",

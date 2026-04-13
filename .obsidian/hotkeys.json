@@ -23,13 +23,5 @@
       ],
       "key": "ArrowLeft"
     }
-  ],
-  "editor:insert-tag": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "A"
-    }
   ]
 }

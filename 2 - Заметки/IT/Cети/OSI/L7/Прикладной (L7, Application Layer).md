@@ -25,34 +25,34 @@
 
 **Основные протоколы**
 
-- **[[HTTP HTTPS]]** (HyperText Transfer Protocol / Secure) — передача веб-страниц и веб-сервисов.
+- **HTTP HTTPS** (HyperText Transfer Protocol / Secure) — передача веб-страниц и веб-сервисов.
     
-- **[[FTP]]** (File Transfer Protocol) — передача файлов.
+- **FTP** (File Transfer Protocol) — передача файлов.
     
-- **[[SMTP]]** (Simple Mail Transfer Protocol) — отправка электронной почты.
+- **SMTP** (Simple Mail Transfer Protocol) — отправка электронной почты.
     
-- **[[POP3]]** (Post Office Protocol v3) — получение электронной почты.
+- **POP3** (Post Office Protocol v3) — получение электронной почты.
     
-- **[[IMAP]]** (Internet Message Access Protocol) — удалённое управление почтовым ящиком.
+- **IMAP** (Internet Message Access Protocol) — удалённое управление почтовым ящиком.
     
-- **[[DNS]]** (Domain Name System) — преобразование доменных имён в IP-адреса.
+- **DNS** (Domain Name System) — преобразование доменных имён в IP-адреса.
     
-- **[[DHCP]]** (Dynamic Host Configuration Protocol) — автоматическая настройка сетевых параметров узла.
+- **DHCP** (Dynamic Host Configuration Protocol) — автоматическая настройка сетевых параметров узла.
     
-- **[[Telnet]]** — удалённый доступ к терминалу (незащищённый).
+- **Telnet** — удалённый доступ к терминалу (незащищённый).
     
-- **[[2 - Заметки/IT/Cети/OSI/L7/SSH|SSH]]** (Secure Shell) — защищённый удалённый доступ и управление.
+- **SSH** (Secure Shell) — защищённый удалённый доступ и управление.
     
-- **[[SNMP]]** (Simple Network Management Protocol) — управление сетевыми устройствами.
+- **SNMP** (Simple Network Management Protocol) — управление сетевыми устройствами.
     
-- **[[NFS]]** (Network File System) — доступ к удалённой файловой системе.
+- **NFS** (Network File System) — доступ к удалённой файловой системе.
     
-- **[[SMB CIFS]]** (Server Message Block / Common Internet File System) — сетевые файловые и принтерные службы Windows.
+- **SMB CIFS** (Server Message Block / Common Internet File System) — сетевые файловые и принтерные службы Windows.
     
-- **[[RDP]]** (Remote Desktop Protocol) — удалённый рабочий стол.
+- **RDP** (Remote Desktop Protocol) — удалённый рабочий стол.
     
-- **[[LDAP]]** (Lightweight Directory Access Protocol) — доступ к каталогам (например, Active Directory).
+- **LDAP** (Lightweight Directory Access Protocol) — доступ к каталогам (например, Active Directory).
     
-- **[[WebSocket]]** — двусторонняя связь поверх HTTP.
+- **WebSocket** — двусторонняя связь поверх HTTP.
     
-- **[[EtherNetIP]]**
+- **EtherNetIP**

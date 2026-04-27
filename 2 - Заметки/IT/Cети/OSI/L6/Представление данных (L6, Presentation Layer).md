@@ -25,20 +25,20 @@
 
 **Основные протоколы и стандарты представления**
 
-- **[[SSL TLS]]** (Secure Sockets Layer / Transport Layer Security) — шифрование и согласование криптографических параметров (частично работает на L5/L6).
+- **SSL TLS** (Secure Sockets Layer / Transport Layer Security) — шифрование и согласование криптографических параметров (частично работает на L5/L6).
     
-- **[[XDR]]** (External Data Representation) — стандарт для описания и кодирования данных (используется в NFS, RPC).
+- **XDR** (External Data Representation) — стандарт для описания и кодирования данных (используется в NFS, RPC).
     
-- **[[ASN.1]]** (Abstract Syntax Notation One) — формальное описание структур данных (используется в SNMP, LDAP, GSM).
+- **ASN.1** (Abstract Syntax Notation One) — формальное описание структур данных (используется в SNMP, LDAP, GSM).
     
-- **[[MIME]]** (Multipurpose Internet Mail Extensions) — описание типов содержимого (текст, изображения, приложения) для передачи через почтовые протоколы.
+- **MIME** (Multipurpose Internet Mail Extensions) — описание типов содержимого (текст, изображения, приложения) для передачи через почтовые протоколы.
     
-- **[[JPEG]]** (Joint Photographic Experts Group) — сжатие неподвижных изображений.
+- **JPEG** (Joint Photographic Experts Group) — сжатие неподвижных изображений.
     
-- **[[MPEG]]** (Moving Picture Experts Group) — сжатие видео и аудиопотоков.
+- **MPEG** (Moving Picture Experts Group) — сжатие видео и аудиопотоков.
     
-- **[[GIF]]** (Graphics Interchange Format) — формат изображений с сжатием без потерь.
+- **GIF** (Graphics Interchange Format) — формат изображений с сжатием без потерь.
     
-- **[[XML]]** (eXtensible Markup Language) — текстовый формат для структурированных данных (часто упоминается на L6).
+- **XML** (eXtensible Markup Language) — текстовый формат для структурированных данных (часто упоминается на L6).
     
-- **[[JSON]]** (JavaScript Object Notation) — лёгкий формат обмена данными (также относят к представлению).
+- **JSON** (JavaScript Object Notation) — лёгкий формат обмена данными (также относят к представлению).

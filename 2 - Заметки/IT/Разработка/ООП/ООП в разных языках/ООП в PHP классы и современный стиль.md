@@ -1,0 +1,5 @@
+2026-08-19 в 11:44
+Теги:[[ООП в разных языках]]
+
+----
+Современный PHP — язык с полноценной поддержкой классов, трейтов, интерфейсов и автозагрузки. Фреймворки вроде Laravel активно используют **объектно-ориентированное программирование**. **Курс ООП PHP** — [ООП в PHP](https://ru.hexlet.io/programs/php-oop) — даёт архитектуру и чистый код на PHP. Для закрепления основ программирования полезен [СИКП на PHP](https://ru.hexlet.io/programs/php-sicp); для структур данных — [Деревья в PHP](https://ru.hexlet.io/programs/php-trees). Дополнительный угол — [Функциональное программирование на PHP](https://ru.hexlet.io/programs/php-functional-programming). Дальше можно переходить к [Laravel](https://ru.hexlet.io/programs/php-laravel-developer) и [тестированию на PHP](https://ru.hexlet.io/programs/php-phpunit-testing).
